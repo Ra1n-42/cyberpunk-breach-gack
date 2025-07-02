@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+Lib/
+Include/
+Scripts/
+share/
+images/
+pyvenv.cfg
+ocr_test.py
+ocr_extractor.py
+mk1.py
+mk2.py
+cv2_template_matching.py
+__pycache__/
+breach.py
